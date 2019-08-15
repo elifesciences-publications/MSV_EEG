@@ -1,3 +1,6 @@
+### This code is associated with the paper from Phan et al., "Multivariate stochastic volatility modeling of neural data". eLife, 2019. http://dx.doi.org/10.7554/eLife.42950
+
+
 Bayesian Sampling for Multivariate Stochastic Volatility (MSV) Models
 
 This is a C++ implementation of the Bayesian sampling algorithm for MSV models via Rcpp. Ones need the following R packages to run this code :Rcpp, RcppArmadillo, mvtnorm (install.packages(c('Rcpp', 'RcppArmadillo', 'mvtnorm')) to install).
